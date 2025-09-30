@@ -3,13 +3,7 @@ CSC 230 - Introduction to Software Engineering
 Homework 2 — Part 2: Unit Tests
 File: UnitTests.py
 
-Notes:
-- Per the assignment, prototypes are included ONLY so this file runs end-to-end.
-  The instructor will ignore these prototypes and grade your unit tests.
-- Tests follow the (1) setup, (2) test, (3) examine pattern and print ONLY on failure.
-- Exit code is non-zero if any test fails (so GitHub Actions / CI can detect failures).
 """
-
 import sys
 
 # My Prototypes (so tests can run)
